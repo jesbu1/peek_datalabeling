@@ -1,0 +1,6 @@
+[submodule "Gripper_detector"]
+	path = Gripper_detector
+	url = git@github.com:Dantong88/Gripper_detector.git
+[submodule "rlds_dataset_mod"]
+	path = rlds_dataset_mod
+	url = git@github.com:jesbu1/rlds_dataset_mod.git
