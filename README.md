@@ -53,7 +53,6 @@ python label_videos_libero.py --save_dir /path/to/save/directory --dataset_locat
 The scripts keep track of processed videos in separate JSON files:
 
 - `finished_videos.json`: Tracks videos that have been fully processed with tracking
-- `labeled_videos.json`: Tracks videos that have been labeled with trajectory segments
 
 ### HDF5 File Structure
 
